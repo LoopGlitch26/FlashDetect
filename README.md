@@ -7,6 +7,9 @@ The algorithm described is a photosensitive detection algorithm that analyzes a 
 
 # Result:
 [Example](https://youtu.be/pOnwPiL42Qw) 
+
 Execution time: 118.2113618850708 seconds
+
 The video has enough flashing lights.
+
 ![image](https://user-images.githubusercontent.com/53336715/225007482-297d31fa-fc26-466b-b6d4-e725f82b75bd.png)
