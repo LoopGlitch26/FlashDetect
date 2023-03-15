@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='flash_detect',
+    name='flash-detect',
     version='0.1',
     description='A package for analyzing videos for flashing lights and contrasting light and dark patterns',
     url='https://github.com/LoopGlitch26/FlashDetect',
