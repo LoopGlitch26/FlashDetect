@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='flash_detect',
@@ -8,7 +8,7 @@ setup(
     author='Bravish Ghosh',
     author_email='bravish.ghosh@outlook.com',
     license='MIT',
-    packages=['flash_detect'],
+    packages=find_packages(),
     install_requires=[
         'pytube',
         'opencv-python',
